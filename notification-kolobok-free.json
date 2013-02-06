@@ -1,7 +1,6 @@
 {
-version: "0",
+version: "1",
 link: "market://details?id=com.flexymind.mheater",
-title: "Notification w image",
-message: "new try",
-image: "http://octodex.github.com/images/bear-cavalry.jpg"
+title: "Test notify",
+message: "this is just the test thing, nevermind"
 }
