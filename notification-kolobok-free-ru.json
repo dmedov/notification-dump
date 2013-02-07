@@ -1,5 +1,5 @@
 {
-version: "3",
+version: "0",
 link: "market://details?id=com.flexymind.mheater",
 title: "Тестовая нотификация",
 message: "На русском языке"
