@@ -1,0 +1,6 @@
+{
+version: "2",
+link: "market://details?id=com.flexymind.mheater",
+title: "Тестовая нотификация",
+message: "На русском языке"
+}
