@@ -1,5 +1,5 @@
 {
-version: "1",
+version: "0",
 link: "market://details?id=com.flexymind.mheater",
 title: "Prueba de notificación",
 message: "Idioma Español"
