@@ -1,6 +1,6 @@
 {
 version: "0",
-link: "market://details?id=com.flexymind.mheater",
-title: "Тестовая нотификация",
-message: "На русском языке"
+link: "http://get.flexymind.com/8march",
+title: "Поздравляем!",
+message: "Всех мам, бабушек, дочек с 8 марта!"
 }
